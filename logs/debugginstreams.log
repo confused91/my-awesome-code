@@ -1,0 +1,185 @@
+2022-03-17 16:02:41 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:02:41 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:02:41 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:02:41 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:02:41 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:02:41 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 16:02:44 DEBUG ConnectionTest:32 - Trainee id is: 1
+2022-03-17 16:02:44 INFO  ConnectionTest:33 - Trainee name is: Nikhil
+2022-03-17 16:02:44 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:02:44 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:02:44 DEBUG ConnectionTest:32 - Trainee id is: 2
+2022-03-17 16:02:44 INFO  ConnectionTest:33 - Trainee name is: Sanjana
+2022-03-17 16:02:44 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:02:44 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:02:44 DEBUG ConnectionTest:32 - Trainee id is: 3
+2022-03-17 16:02:44 INFO  ConnectionTest:33 - Trainee name is: MohithKumar
+2022-03-17 16:02:44 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:02:44 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:03:41 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:03:41 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:03:41 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:03:41 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:03:41 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:03:41 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 16:03:44 INFO  ConnectionTest:33 - Trainee name is: Nikhil
+2022-03-17 16:03:44 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:03:44 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:03:44 INFO  ConnectionTest:33 - Trainee name is: Sanjana
+2022-03-17 16:03:44 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:03:44 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:03:44 INFO  ConnectionTest:33 - Trainee name is: MohithKumar
+2022-03-17 16:03:44 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:03:44 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:04:45 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:04:45 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:04:45 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:04:45 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:04:45 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:04:45 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 16:04:47 DEBUG ConnectionTest:32 - Trainee id is: 1
+2022-03-17 16:04:47 INFO  ConnectionTest:33 - Trainee name is: Nikhil
+2022-03-17 16:04:47 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:04:47 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:04:47 DEBUG ConnectionTest:32 - Trainee id is: 2
+2022-03-17 16:04:47 INFO  ConnectionTest:33 - Trainee name is: Sanjana
+2022-03-17 16:04:47 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:04:47 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:04:47 DEBUG ConnectionTest:32 - Trainee id is: 3
+2022-03-17 16:04:47 INFO  ConnectionTest:33 - Trainee name is: MohithKumar
+2022-03-17 16:04:47 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:04:47 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:07:02 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:07:02 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:07:02 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:07:02 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:07:02 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:07:02 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 16:07:04 DEBUG ConnectionTest:32 - Trainee id is: 1
+2022-03-17 16:07:04 INFO  ConnectionTest:33 - Trainee name is: Nikhil
+2022-03-17 16:07:04 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:07:04 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:07:04 DEBUG ConnectionTest:32 - Trainee id is: 2
+2022-03-17 16:07:04 INFO  ConnectionTest:33 - Trainee name is: Sanjana
+2022-03-17 16:07:04 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:07:04 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:07:04 DEBUG ConnectionTest:32 - Trainee id is: 3
+2022-03-17 16:07:04 INFO  ConnectionTest:33 - Trainee name is: MohithKumar
+2022-03-17 16:07:04 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:07:04 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:07:17 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:07:17 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:07:17 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:07:17 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:07:17 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:07:17 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 16:07:19 DEBUG ConnectionTest:32 - Trainee id is: 1
+2022-03-17 16:07:19 INFO  ConnectionTest:33 - Trainee name is: Nikhil
+2022-03-17 16:07:19 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:07:19 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:07:19 DEBUG ConnectionTest:32 - Trainee id is: 2
+2022-03-17 16:07:19 INFO  ConnectionTest:33 - Trainee name is: Sanjana
+2022-03-17 16:07:19 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:07:19 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:07:19 DEBUG ConnectionTest:32 - Trainee id is: 3
+2022-03-17 16:07:19 INFO  ConnectionTest:33 - Trainee name is: MohithKumar
+2022-03-17 16:07:19 INFO  ConnectionTest:34 - Trainee batch is: Sharada
+2022-03-17 16:07:19 INFO  ConnectionTest:35 - Trainee mentor is: Two
+2022-03-17 16:50:39 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:50:45 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:50:48 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:50:55 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:50:58 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:51:01 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 16:51:52 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:51:52 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:51:52 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:54:11 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:54:11 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:55:29 INFO  ConnectionTest:52 - Trainer id is: 2
+2022-03-17 16:58:40 INFO  ConnectionTest:52 - Trainer id is: 1
+2022-03-17 16:58:40 INFO  ConnectionTest:53 - Trainer name is: Sharada
+2022-03-17 16:58:40 INFO  ConnectionTest:54 - Trainer batch is: Two
+2022-03-17 16:58:40 INFO  ConnectionTest:52 - Trainer id is: 3
+2022-03-17 16:58:40 INFO  ConnectionTest:53 - Trainer name is: Krishna
+2022-03-17 16:58:40 INFO  ConnectionTest:54 - Trainer batch is: One
+2022-03-17 17:11:24 INFO  ConnectionTest:56 - Trainer id is: 1
+2022-03-17 17:11:24 INFO  ConnectionTest:57 - Trainer name is: Sharada
+2022-03-17 17:11:24 INFO  ConnectionTest:58 - Trainer batch is: Two
+2022-03-17 17:12:04 INFO  ConnectionTest:56 - Trainer id is: 3
+2022-03-17 17:12:04 INFO  ConnectionTest:57 - Trainer name is: Krishna
+2022-03-17 17:12:04 INFO  ConnectionTest:58 - Trainer batch is: One
+2022-03-17 17:14:00 INFO  ConnectionTest:56 - Trainer id is: 3
+2022-03-17 17:14:00 INFO  ConnectionTest:57 - Trainer name is: Krishna
+2022-03-17 17:14:00 INFO  ConnectionTest:58 - Trainer batch is: One
+2022-03-17 17:16:07 INFO  ConnectionTest:56 - Trainer id is: 3
+2022-03-17 17:16:07 INFO  ConnectionTest:57 - Trainer name is: Krishna
+2022-03-17 17:16:07 INFO  ConnectionTest:58 - Trainer batch is: One
+2022-03-17 17:16:32 INFO  ConnectionTest:57 - Trainer id is: 1
+2022-03-17 17:16:32 INFO  ConnectionTest:58 - Trainer name is: Sharada
+2022-03-17 17:16:32 INFO  ConnectionTest:59 - Trainer batch is: Two
+2022-03-17 17:16:32 INFO  ConnectionTest:57 - Trainer id is: 3
+2022-03-17 17:16:32 INFO  ConnectionTest:58 - Trainer name is: Krishna
+2022-03-17 17:16:32 INFO  ConnectionTest:59 - Trainer batch is: One
+2022-03-17 17:17:40 INFO  ConnectionTest:57 - Trainer id is: 1
+2022-03-17 17:17:40 INFO  ConnectionTest:58 - Trainer name is: Sharada
+2022-03-17 17:17:40 INFO  ConnectionTest:59 - Trainer batch is: Two
+2022-03-17 17:17:40 INFO  ConnectionTest:57 - Trainer id is: 3
+2022-03-17 17:17:40 INFO  ConnectionTest:58 - Trainer name is: Krishna
+2022-03-17 17:17:40 INFO  ConnectionTest:59 - Trainer batch is: One
+2022-03-17 17:17:40 INFO  ConnectionTest:57 - Trainer id is: 5
+2022-03-17 17:17:40 INFO  ConnectionTest:58 - Trainer name is: Srikala
+2022-03-17 17:17:40 INFO  ConnectionTest:59 - Trainer batch is: overall
+2022-03-17 17:18:50 INFO  ConnectionTest:57 - Trainer id is: 5
+2022-03-17 17:18:50 INFO  ConnectionTest:58 - Trainer name is: Srikala
+2022-03-17 17:18:50 INFO  ConnectionTest:59 - Trainer batch is: overall
+2022-03-21 10:07:52 INFO  FactoryIntegrationTest:22 - The shape with 4 sides is a square The shape with 4 sides is a Square
+2022-03-21 10:08:15 INFO  FactoryIntegrationTest:34 - The shape with 8 sides is a Octagon
+2022-03-21 10:08:15 INFO  FactoryIntegrationTest:22 - The shape with 4 sides is a Square
+2022-03-21 10:08:59 INFO  FactoryIntegrationTest:34 - The shape with 8 sides is a Octagon
+2022-03-21 10:08:59 INFO  FactoryIntegrationTest:22 - The shape with 4 sides is a Square
+2022-03-21 10:08:59 INFO  FactoryIntegrationTest:45 - The shape with 3 sides is a Triangle
+2022-03-21 10:09:35 INFO  FactoryIntegrationTest:34 - The shape with 8 sides is a Octagon
+2022-03-21 10:09:35 INFO  FactoryIntegrationTest:22 - The shape with 4 sides is a Square
+2022-03-21 10:09:35 INFO  FactoryIntegrationTest:56 - The shape with 7 sides is a Heptagon
+2022-03-21 10:09:35 INFO  FactoryIntegrationTest:45 - The shape with 3 sides is a Triangle
+2022-03-21 10:11:26 INFO  FactoryIntegrationTest:22 - The shape with 4 sides is a Square
+2022-03-21 10:11:26 INFO  FactoryIntegrationTest:25 - The shape with 5 sides is a Pentagon
+2022-03-21 10:11:26 INFO  FactoryIntegrationTest:28 - The shape with 3 sides is a Triangle
+2022-03-21 10:11:26 INFO  FactoryIntegrationTest:31 - The shape with 7 sides is a Heptagon
+2022-03-21 10:11:26 INFO  FactoryIntegrationTest:34 - The shape with 8 sides is a Octagon
+2022-03-21 10:38:56 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-21 10:38:56 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-21 10:42:13 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-21 10:42:13 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-21 10:42:13 INFO  DecoratorPatternDriver:19 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-21 10:42:20 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-21 10:42:20 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-21 10:42:20 INFO  DecoratorPatternDriver:19 - Christmas tree with Garland with Garland with Bubble Lights with Bubble Lights
+2022-03-21 13:18:37 INFO  JavaDateTime:48 - time now is : 13:18:37.058
+2022-03-21 13:18:37 INFO  JavaDateTime:50 - one hour after 6:30 is 07:30
+2022-03-21 13:20:54 INFO  JavaDateTime:47 - time now is : 13:20:54.868
+2022-03-21 13:20:54 INFO  JavaDateTime:49 - one hour after 6:30 is 07:30
+2022-03-21 13:20:54 INFO  JavaDateTime:55 - Zoned time for Europe/Paris is 2022-03-21T13:20:54.876+01:00[Europe/Paris]
+2022-03-21 13:23:09 INFO  JavaDateTime:47 - time now is : 13:23:09.605
+2022-03-21 13:23:09 INFO  JavaDateTime:49 - one hour after 6:30 is 07:30
+2022-03-21 13:23:09 INFO  JavaDateTime:56 - Zoned time for Europe/Paris is 2022-03-21T13:23:09.612+03:00[Asia/Aden]
+2022-03-21 13:24:28 INFO  JavaDateTime:47 - time now is : 13:24:28.646
+2022-03-21 13:24:28 INFO  JavaDateTime:49 - one hour after 6:30 is 07:30
+2022-03-21 13:24:28 INFO  JavaDateTime:54 - The first zoneId fetched is Asia/Aden
+2022-03-21 13:24:28 INFO  JavaDateTime:57 - Zoned time forAsia/Aden is 2022-03-21T13:24:28.652+03:00[Asia/Aden]
+2022-03-21 13:24:41 INFO  JavaDateTime:47 - time now is : 13:24:41.848
+2022-03-21 13:24:41 INFO  JavaDateTime:49 - one hour after 6:30 is 07:30
+2022-03-21 13:24:41 INFO  JavaDateTime:54 - The first zoneId fetched is Asia/Aden
+2022-03-21 13:24:41 INFO  JavaDateTime:57 - Zoned time for Asia/Aden is 2022-03-21T13:24:41.854+03:00[Asia/Aden]
+2022-03-21 16:03:04 INFO  FactoryIntegrationTest:21 - The shape with 4 sides is a Square
+2022-03-21 16:03:04 INFO  FactoryIntegrationTest:24 - The shape with 5 sides is a Pentagon
+2022-03-21 16:03:04 INFO  FactoryIntegrationTest:27 - The shape with 3 sides is a Triangle
+2022-03-21 16:03:04 INFO  FactoryIntegrationTest:30 - The shape with 7 sides is a Heptagon
+2022-03-21 16:03:04 INFO  FactoryIntegrationTest:33 - The shape with 8 sides is a Octagon
+2022-03-21 16:03:04 INFO  FactoryIntegrationTest:36 - The shape with 6 sides is a Hexagon
+2022-03-21 16:16:27 INFO  FactoryIntegrationTest:22 - The shape with 4 sides is a Square
+2022-03-21 16:16:27 INFO  FactoryIntegrationTest:25 - The shape with 5 sides is a Pentagon
+2022-03-21 16:16:27 INFO  FactoryIntegrationTest:28 - The shape with 3 sides is a Triangle
+2022-03-21 16:16:27 INFO  FactoryIntegrationTest:31 - The shape with 7 sides is a Heptagon
+2022-03-21 16:16:27 INFO  FactoryIntegrationTest:34 - The shape with 8 sides is a Octagon
