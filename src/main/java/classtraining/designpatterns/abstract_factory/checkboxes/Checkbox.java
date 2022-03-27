@@ -1,4 +1,4 @@
-package classtraining.designpatterns;
+package classtraining.designpatterns.abstract_factory.checkboxes;
 
 /**
  * EN: Checkboxes is the second product family. It has the same variants as

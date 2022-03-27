@@ -22,6 +22,7 @@ public class Demo {
         CarBuilder builder = new CarBuilder();
 //        director.constructCityCar(builder);
         director.constructSportsCar(builder);
+        director.constructSUV(builder);
 //        director.constructSUV(builder);
 
         // EN: The final product is often retrieved from a builder object, since

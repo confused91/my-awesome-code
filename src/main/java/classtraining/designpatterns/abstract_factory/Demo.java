@@ -1,9 +1,13 @@
-package classtraining.designpatterns;
+package classtraining.designpatterns.abstract_factory;
+
+
+import classtraining.designpatterns.abstract_factory.app.Application;
+import classtraining.designpatterns.abstract_factory.factories.GUIFactory;
+import classtraining.designpatterns.abstract_factory.factories.MacOSFactory;
+import classtraining.designpatterns.abstract_factory.factories.WindowsFactory;
 
 /**
  * EN: Demo class. Everything comes together here.
- *
- * RU: Демо-класс. Здесь всё сводится воедино.
  */
 public class Demo {
 
@@ -11,9 +15,6 @@ public class Demo {
      * EN: Application picks the factory type and creates it in run time
      * (usually at initialization stage), depending on the configuration or
      * environment variables.
-     *
-     * RU: Приложение выбирает тип и создаёт конкретные фабрики динамически
-     * исходя из конфигурации или окружения.
      */
     private static Application configureApplication() {
         GUIFactory factory;

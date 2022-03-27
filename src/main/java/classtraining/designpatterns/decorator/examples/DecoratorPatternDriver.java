@@ -15,7 +15,7 @@ public class DecoratorPatternDriver {
         ChristmasTree tree2 = new BubbleLights(new Garland(new Garland(new ChristmasTreeImpl())));
         logger.info(tree2.decorate());
 
-        ChristmasTree tree3 = new BubbleLights(new BubbleLights(new Garland(new Garland(new ChristmasTreeImpl()))));
+        ChristmasTree tree3 = new ChristmasTreeImpl();
         logger.info(tree3.decorate());
     }
 

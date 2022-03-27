@@ -1,4 +1,4 @@
-package classtraining.designpatterns;
+package classtraining.designpatterns.abstract_factory.buttons;
 
 /**
  * EN: Abstract Factory assumes that you have several families of products,

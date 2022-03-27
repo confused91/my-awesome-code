@@ -8,9 +8,7 @@ import java.util.Map;
 
 /**
  * EN: Concrete strategy. Implements PayPal payment method.
- *
- * RU: Конкретная стратегия. Реализует оплату корзины интернет магазина через
- * платежную систему PayPal.
+
  */
 public class PayByPayPal implements PayStrategy {
     private static final Map<String, String> DATA_BASE = new HashMap<>();
@@ -26,8 +24,7 @@ public class PayByPayPal implements PayStrategy {
 
     /**
      * EN: Collect customer's data.
-     *
-     * RU: Собираем данные от клиента.
+
      */
     @Override
     public void collectPaymentDetails() {
