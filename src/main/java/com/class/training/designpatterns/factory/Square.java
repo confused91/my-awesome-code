@@ -1,8 +1,0 @@
-package com.epam.classtraining.designpatterns.factory;
-
-public class Square implements Polygon{
-    @Override
-    public String getType() {
-        return "Square";
-    }
-}

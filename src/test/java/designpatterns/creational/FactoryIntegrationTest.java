@@ -1,7 +1,7 @@
 package designpatterns.creational;
 
-import com.epam.classtraining.designpatterns.factory.Polygon;
-import com.epam.classtraining.designpatterns.factory.PolygonFactory;
+import com.training.designpatterns.factory.Polygon;
+import com.training.designpatterns.factory.PolygonFactory;
 import org.apache.logging.log4j.LogManager;
 
 import org.apache.logging.log4j.Logger;
