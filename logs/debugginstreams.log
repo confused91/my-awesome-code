@@ -183,3 +183,193 @@
 2022-03-21 16:16:27 INFO  FactoryIntegrationTest:28 - The shape with 3 sides is a Triangle
 2022-03-21 16:16:27 INFO  FactoryIntegrationTest:31 - The shape with 7 sides is a Heptagon
 2022-03-21 16:16:27 INFO  FactoryIntegrationTest:34 - The shape with 8 sides is a Octagon
+2022-03-24 16:44:49 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-24 16:44:49 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-24 16:44:49 INFO  DecoratorPatternDriver:19 - Christmas tree with Garland with Garland with Bubble Lights with Bubble Lights
+2022-03-24 16:47:19 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-24 16:47:19 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-24 16:47:19 INFO  DecoratorPatternDriver:19 - Christmas tree with Bubble Lights
+2022-03-24 16:47:48 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-24 16:47:48 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-24 16:47:48 INFO  DecoratorPatternDriver:19 - Christmas tree
+2022-03-25 15:13:41 INFO  EmployeeTest:15 - Employee@b456356d
+2022-03-25 15:14:07 INFO  EmployeeTest:15 - Employee{firstName='Cristiano', lastName='Ronaldo', age=33, personalId=7, phone='0045-1234556', address='Juventus', mail='CR@Juventus.org'}
+2022-03-25 15:18:54 INFO  EmployeeTest:15 - Employee{firstName='Sanjana', lastName='Namburu', age=21, personalId=7, phone='0045-1234556', address='Guntur', mail='sj@gmail.com'}
+2022-03-25 15:18:54 INFO  EmployeeTest:19 - Employee{firstName='Kirty', lastName='Kumari', age=21, personalId=10, phone='98738383833', address='null', mail='kk@gmail.com'}
+2022-03-25 15:31:01 INFO  StrategyPatternTest:19 - Time taken to travel by car is: 0
+2022-03-25 15:35:00 INFO  StrategyPatternTest:19 - Time taken to travel by car is: 0.0
+2022-03-25 15:35:22 INFO  StrategyPatternTest:19 - Time taken to travel by car is: 6.0
+2022-03-25 15:36:54 INFO  StrategyPatternTest:19 - Time taken to travel by car is: 7.0
+2022-03-25 15:36:54 INFO  StrategyPatternTest:20 - Time taken to travel by foot is: 140.0
+2022-03-25 15:36:54 INFO  StrategyPatternTest:21 - Time taken to travel by two wheeler is: 11.0
+2022-03-25 16:44:40 INFO  EmployeeTest:15 - Employee{firstName='Sanjana', lastName='Namburu', age=21, personalId=7, phone='0045-1234556', address='Guntur', mail='sj@gmail.com'}
+2022-03-25 16:44:40 INFO  EmployeeTest:19 - Employee{firstName='Kirty', lastName='Kumari', age=21, personalId=10, phone='98738383833', address='null', mail='kk@gmail.com'}
+2022-03-25 16:44:40 INFO  EmployeeTest:22 - Employee{firstName='Suresh', lastName='Yarava', age=21, personalId=15, phone='null', address='null', mail='null'}
+2022-03-28 18:19:16 INFO  EmployeeTest:14 - Employee{firstName='Sanjana', lastName='Namburu', age=21, personalId=7, phone='0045-1234556', address='Guntur', mail='sj@gmail.com'}
+2022-03-28 18:19:16 INFO  EmployeeTest:18 - Employee{firstName='Kirty', lastName='Kumari', age=21, personalId=10, phone='98738383833', address='null', mail='kk@gmail.com'}
+2022-03-28 18:19:16 INFO  EmployeeTest:21 - Employee{firstName='Suresh', lastName='Yarava', age=21, personalId=15, phone='null', address='null', mail='null'}
+2022-03-28 18:30:04 INFO  DecoratorPatternDriver:12 - Christmas tree with Garland
+2022-03-28 18:30:04 INFO  DecoratorPatternDriver:16 - Christmas tree with Garland with Garland with Bubble Lights
+2022-03-28 18:30:04 INFO  DecoratorPatternDriver:19 - Christmas tree
+2022-03-28 18:50:39 INFO  StrategyPatternTest:19 - Time taken to travel by car is: 3.0
+2022-03-28 18:50:39 INFO  StrategyPatternTest:20 - Time taken to travel by foot is: 60.0
+2022-03-28 18:50:39 INFO  StrategyPatternTest:21 - Time taken to travel by two wheeler is: 5.0
+2022-03-29 09:39:29 INFO  ClassInvariantExample:17 - the name is null
+2022-03-29 09:40:43 INFO  ClassInvariantExample:18 - the name is null
+2022-03-29 09:41:11 INFO  ClassInvariantExample:18 - the name is Sharada
+2022-03-29 09:41:33 INFO  ClassInvariantExample:19 - the name is Akash
+2022-03-29 09:43:26 INFO  ClassInvariantExample:20 - the name is Sharada
+2022-03-29 09:43:26 INFO  ClassInvariantExample:22 - date is 2020-02-29
+2022-03-29 09:43:28 INFO  ClassInvariantExample:20 - the name is Sharada
+2022-03-29 09:43:28 INFO  ClassInvariantExample:22 - date is 2020-02-29
+2022-03-29 09:43:39 INFO  ClassInvariantExample:20 - the name is Sharada
+2022-03-29 10:31:30 INFO  BirdTest:45 - Dove says I'm flying
+2022-03-29 10:31:30 INFO  BirdTest:46 - Dove says I'm walking
+2022-03-29 10:31:30 INFO  BirdTest:48 - Dove says I'm flying
+2022-03-29 10:31:30 INFO  BirdTest:49 - Dove says I'm walking
+2022-03-29 10:31:45 INFO  BirdTest:45 - Dove says I'm flying
+2022-03-29 10:31:45 INFO  BirdTest:46 - Dove says I'm walking
+2022-03-29 10:31:45 INFO  BirdTest:48 - Ostrich says I'm flying
+2022-03-29 10:31:45 INFO  BirdTest:49 - Ostrich says I'm walking
+2022-03-29 10:35:02 INFO  BirdTest:44 - Dove says I'm flying
+2022-03-29 10:35:02 INFO  BirdTest:45 - Dove says I'm walking
+2022-03-29 10:35:02 INFO  BirdTest:47 - Ostrich says I'm flying
+2022-03-29 10:35:02 INFO  BirdTest:48 - Ostrich says I'm walking
+2022-03-29 12:46:05 INFO  BirdTest:44 - Dove says I'm flying
+2022-03-29 12:46:05 INFO  BirdTest:45 - Dove says I'm walking
+2022-03-29 12:46:05 INFO  BirdTest:47 - Ostrich says I'm flying
+2022-03-29 12:46:05 INFO  BirdTest:48 - Ostrich says I'm walking
+2022-03-29 14:49:24 INFO  CalculatorProgram:10 - The addition of two numbers 8.0
+2022-03-29 14:49:24 INFO  CalculatorProgram:15 - The addition of two numbers -2.0
+2022-03-29 14:49:24 INFO  CalculatorProgram:20 - The addition of two numbers 0.6
+2022-03-29 15:11:17 INFO  ClassInvariantExample:20 - the name is Sharada
+2022-03-29 15:11:17 INFO  ClassInvariantExample:22 - date is 2020-02-29
+2022-03-29 15:11:34 INFO  ClassInvariantExample:20 - the name is Sharada
+2022-03-29 15:13:05 INFO  ClassInvariantExample:20 - the name is Sharada
+2022-03-29 15:21:14 INFO  BirdTest:44 - Dove says I'm flying
+2022-03-29 15:21:14 INFO  BirdTest:45 - Dove says I'm walking
+2022-03-29 15:21:14 INFO  BirdTest:47 - Ostrich says I'm flying
+2022-03-29 15:21:14 INFO  BirdTest:48 - Ostrich says I'm walking
+2022-04-06 11:15:19 INFO  BuilderPatternTest:31 - Car built:
+SUV
+2022-04-06 11:15:19 INFO  BuilderPatternTest:38 - 
+Car manual built:
+Type of car: SPORTS_CAR
+Count of seats: 2
+Engine: volume - 3.0; mileage - 0.0
+Transmission: SEMI_AUTOMATIC
+Trip Computer: N/A
+GPS Navigator: Functional
+
+2022-04-06 11:17:16 INFO  BuilderPatternTest:30 - Car built:
+SUV
+2022-04-06 11:17:16 INFO  BuilderPatternTest:44 - 
+Car manual built:
+Type of car: SUV
+Count of seats: 4
+Engine: volume - 2.5; mileage - 0.0
+Transmission: MANUAL
+Trip Computer: N/A
+GPS Navigator: Functional
+
+2022-04-06 11:17:16 INFO  BuilderPatternTest:51 - 
+Car manual built:
+Type of car: SPORTS_CAR
+Count of seats: 2
+Engine: volume - 3.0; mileage - 0.0
+Transmission: SEMI_AUTOMATIC
+Trip Computer: N/A
+GPS Navigator: Functional
+
+2022-04-06 11:17:16 INFO  BuilderPatternTest:37 - Car built:
+SPORTS_CAR
+2022-04-06 11:33:02 INFO  BuilderPatternTest:30 - Car built:
+SUV
+2022-04-06 11:33:02 INFO  BuilderPatternTest:44 - 
+Car manual built:
+Type of car: SUV
+Count of seats: 4
+Engine: volume - 2.5; mileage - 0.0
+Transmission: MANUAL
+Trip Computer: N/A
+GPS Navigator: Functional
+
+2022-04-06 11:33:02 INFO  BuilderPatternTest:51 - 
+Car manual built:
+Type of car: SPORTS_CAR
+Count of seats: 2
+Engine: volume - 3.0; mileage - 0.0
+Transmission: SEMI_AUTOMATIC
+Trip Computer: N/A
+GPS Navigator: Functional
+
+2022-04-06 11:33:02 INFO  BuilderPatternTest:37 - Car built:
+SPORTS_CAR
+2022-04-06 11:33:09 INFO  BuilderPatternTest:30 - Car built:
+SUV
+2022-04-06 11:33:15 INFO  BuilderPatternTest:37 - Car built:
+SPORTS_CAR
+2022-04-06 17:07:24 INFO  FactoryIntegrationTest:23 - The shape with 4 sides is a Square
+2022-04-06 17:08:42 INFO  FactoryIntegrationTest:23 - The shape with 4 sides is a Square
+2022-04-06 17:08:51 INFO  FactoryIntegrationTest:23 - The shape with 4 sides is a Square
+2022-04-07 13:04:14 INFO  Example:13 - I am the object: java.lang.Object@beea840c
+2022-04-07 13:04:14 INFO  Example:18 - I am object: java.lang.Object@beea840c
+2022-04-07 13:05:59 INFO  Example:20 - I am the object: java.lang.Object@48ee43c2
+2022-04-07 13:05:59 INFO  Example:25 - I am object: java.lang.Object@48ee43c2
+2022-04-07 13:23:24 INFO  Example:20 - I am the object: java.lang.Object@aff711aa
+2022-04-07 13:23:24 INFO  Example:25 - I am object: java.lang.Object@aff711aa
+2022-04-07 13:25:17 INFO  Example:20 - I am the object: java.lang.Object@9f30074f
+2022-04-07 13:25:17 INFO  Example:25 - I am object: java.lang.Object@9f30074f
+2022-04-07 13:25:47 INFO  Example:20 - I am the object: java.lang.Object@b357afcb
+2022-04-07 13:25:47 INFO  Example:25 - I am object: java.lang.Object@b357afcb
+2022-04-07 13:43:52 INFO  Example:20 - I am the object: java.lang.Object@f3183ad1
+2022-04-07 13:43:52 INFO  Example:25 - I am object: java.lang.Object@f3183ad1
+2022-04-07 13:45:26 INFO  Example:20 - I am the object: java.lang.Object@362d08f8
+2022-04-07 13:45:26 INFO  Example:25 - I am object: java.lang.Object@362d08f8
+2022-04-07 13:45:47 INFO  Example:20 - I am the object: java.lang.Object@ff556e
+2022-04-07 13:45:47 INFO  Example:25 - I am object: java.lang.Object@ff556e
+2022-04-07 13:46:19 INFO  Example:20 - I am the object: java.lang.Object@d9ef30ff
+2022-04-07 13:46:19 INFO  Example:25 - I am object: java.lang.Object@d9ef30ff
+2022-04-07 13:47:05 INFO  Example:20 - I am the object: java.lang.Object@a26b7550
+2022-04-07 13:47:05 INFO  Example:25 - I am object: java.lang.Object@a26b7550
+2022-04-07 13:47:24 INFO  Example:20 - I am the object: java.lang.Object@7b0a7d4e
+2022-04-07 13:47:24 INFO  Example:25 - I am object: java.lang.Object@7b0a7d4e
+2022-04-07 13:49:04 INFO  Example:20 - I am the object: java.lang.Object@bf44e8a1
+2022-04-07 13:49:04 INFO  Example:25 - I am object: java.lang.Object@bf44e8a1
+2022-04-07 13:49:20 INFO  Example:20 - I am the object: java.lang.Object@94220c42
+2022-04-07 13:49:20 INFO  Example:25 - I am object: java.lang.Object@94220c42
+2022-04-07 13:50:11 INFO  Example:20 - I am the object: java.lang.Object@170e3e95
+2022-04-07 13:50:11 INFO  Example:25 - I am object: java.lang.Object@170e3e95
+2022-04-07 13:50:33 INFO  Example:20 - I am the object: java.lang.Object@42e8957a
+2022-04-07 13:50:33 INFO  Example:25 - I am object: java.lang.Object@42e8957a
+2022-04-07 14:00:31 INFO  Example:20 - I am the object: java.lang.Object@b2069cde
+2022-04-07 14:00:31 INFO  Example:25 - I am object: java.lang.Object@b2069cde
+2022-04-07 14:01:13 INFO  Example:20 - I am the object: java.lang.Object@a30363d2
+2022-04-07 14:01:13 INFO  Example:25 - I am object: java.lang.Object@a30363d2
+2022-04-07 14:01:29 INFO  Example:20 - I am the object: java.lang.Object@5678cf8f
+2022-04-07 14:01:29 INFO  Example:25 - I am object: java.lang.Object@5678cf8f
+2022-04-07 14:02:13 INFO  Example:20 - I am the object: java.lang.Object@4f99041d
+2022-04-07 14:02:13 INFO  Example:25 - I am object: java.lang.Object@4f99041d
+2022-04-07 14:02:32 INFO  Example:20 - I am the object: java.lang.Object@52689d40
+2022-04-07 14:02:32 INFO  Example:25 - I am object: java.lang.Object@52689d40
+2022-04-07 14:02:52 INFO  Example:20 - I am the object: java.lang.Object@160c799b
+2022-04-07 14:02:52 INFO  Example:25 - I am object: java.lang.Object@160c799b
+2022-04-07 14:03:03 INFO  Example:20 - I am the object: java.lang.Object@501ac63d
+2022-04-07 14:03:03 INFO  Example:25 - I am object: java.lang.Object@501ac63d
+2022-04-07 14:03:59 INFO  Example:20 - I am the object: java.lang.Object@4bc222f7
+2022-04-07 14:03:59 INFO  Example:25 - I am object: java.lang.Object@4bc222f7
+2022-04-07 14:05:34 INFO  Example:20 - I am the object: java.lang.Object@e9b4bea7
+2022-04-07 14:05:34 INFO  Example:25 - I am object: java.lang.Object@e9b4bea7
+2022-04-07 14:05:55 INFO  Example:20 - I am the object: java.lang.Object@498a62c9
+2022-04-07 14:05:55 INFO  Example:25 - I am object: java.lang.Object@498a62c9
+2022-04-07 15:49:32 INFO  Example:20 - I am the object: java.lang.Object@aa1cf64
+2022-04-07 15:49:32 INFO  Example:25 - I am object: java.lang.Object@aa1cf64
+2022-04-07 15:50:46 INFO  Example:20 - I am the object: java.lang.Object@f3281961
+2022-04-07 15:53:51 INFO  Example:20 - I am the object: java.lang.Object@5e6493d5
+2022-04-07 15:53:51 INFO  Example:25 - I am object: java.lang.Object@5e6493d5
+2022-04-07 16:01:01 INFO  Example:20 - I am the object: java.lang.Object@8a46b529
+2022-04-07 16:01:01 INFO  Example:25 - I am object: java.lang.Object@8a46b529
+2022-04-07 16:05:00 INFO  Example:20 - I am the object: java.lang.Object@6e6cad79
+2022-04-07 16:05:00 INFO  Example:25 - I am object: java.lang.Object@6e6cad79
+2022-04-07 16:47:22 INFO  Example:20 - I am the object: java.lang.Object@9eb8eee4
+2022-04-07 16:47:22 INFO  Example:25 - I am object: java.lang.Object@9eb8eee4

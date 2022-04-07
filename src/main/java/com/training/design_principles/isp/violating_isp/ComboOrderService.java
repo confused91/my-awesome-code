@@ -1,4 +1,4 @@
-package com.training.design_principles.isp;
+package com.training.design_principles.isp.violating_isp;
 
 
  public class ComboOrderService implements OrderService{

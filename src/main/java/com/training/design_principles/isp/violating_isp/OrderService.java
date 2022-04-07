@@ -1,7 +1,7 @@
-package com.training.design_principles.isp;
+package com.training.design_principles.isp.violating_isp;
 
 
-interface OrderService {
+public interface OrderService {
     void orderBurger(int quantity);
 
     void orderFries(int fries);

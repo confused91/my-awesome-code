@@ -1,7 +1,7 @@
 package com.training.designpatterns.decorator.example;
 
-import classtraining.designpatterns.decorator.example.decorators.*;
-import com.epam.classtraining.designpatterns.decorator.example.decorators.*;
+
+import com.training.designpatterns.decorator.example.decorators.*;
 
 public class Demo {
     public static void main(String[] args) {

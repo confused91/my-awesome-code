@@ -19,9 +19,7 @@ public class StrategyPatternTest {
         logger.info("Time taken to travel by car is: " + travel.findTravelTime(new TravelByCar()));
         logger.info("Time taken to travel by foot is: " + travel.findTravelTime(new TravelByFoot()));
         logger.info("Time taken to travel by two wheeler is: " + travel.findTravelTime(new TravelByTwoWheeler()));
-        new Calendar.Builder()
-                .setDate(1991,03,Calendar.DAY_OF_MONTH)
-                .build();
+
 
     }
 }

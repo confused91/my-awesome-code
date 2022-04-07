@@ -1,2 +1,6 @@
-package com.training.junit;public interface Scoreable {
+package com.training.junit;
+
+@FunctionalInterface
+public interface Scoreable {
+    int getScore();
 }

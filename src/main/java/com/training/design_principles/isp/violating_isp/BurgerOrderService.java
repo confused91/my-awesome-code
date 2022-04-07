@@ -1,11 +1,11 @@
-package com.training.design_principles.isp;
+package com.training.design_principles.isp.violating_isp;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 
 public class BurgerOrderService implements OrderService {
-    static Logger logger = LogManager.getLogger(com.training.design_principles.isp.BurgerOrderService.class);
+    static Logger logger = LogManager.getLogger(BurgerOrderService.class);
 
     @Override
     public void orderBurger(int quantity) {

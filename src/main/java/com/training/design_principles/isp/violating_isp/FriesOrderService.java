@@ -1,4 +1,4 @@
-package com.training.design_principles.isp;
+package com.training.design_principles.isp.violating_isp;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

@@ -1,0 +1,31 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="sanity" verbose="1" >
+
+    <test name="tickets" >
+
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="sanity"/>
+                <include name="broken test"/>
+                <exclude name="run test"></exclude>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.training.testng.booktickets"></package>
+        </packages>
+
+    </test>
+    <!--<test name="smoke" >
+        <classes>
+            <class name="com.training.testng.Example" />
+        </classes>
+    </test>
+    <test name="inheritance" thread-count="4" parallel="classes">
+       <packages>
+           <package name="com.training"></package>
+       </packages>
+    </test>-->
+
+</suite>

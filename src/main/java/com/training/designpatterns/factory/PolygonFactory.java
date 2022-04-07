@@ -14,7 +14,6 @@ public class PolygonFactory {
             case 5:
                 polygon = new Pentagon();
                 break;
-
             case 7:
                 polygon = new Heptagon();
                 break;
@@ -23,6 +22,7 @@ public class PolygonFactory {
                 break;
             default:
                 polygon = new Triangle();
+
         }
         return polygon;
     }
