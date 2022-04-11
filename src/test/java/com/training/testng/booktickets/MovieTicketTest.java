@@ -15,10 +15,10 @@ public class MovieTicketTest {
         ticket = new MovieTicket();
     }
 
-    @Test(invocationCount = 2, skipFailedInvocations = true,invocationTimeOut = 35000)
+    @Test
     public void testCost() {
         assertEquals(ticket.cost(2), 300, "The cost of 2 movie tickets is");
-        assertEquals(ticket.cost(20), 300, "The cost of 20 movie tickets is");
+        assertEquals(ticket.cost(20), 3000, "The cost of 20 movie tickets is");
     }
     @Test(groups = "run test")
     public void testCostNegative()
