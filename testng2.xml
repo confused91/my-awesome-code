@@ -32,7 +32,7 @@
             <class name="com.training.testng.InheritGroups" />
         </classes>
     </test>-->
-    <test name="parameter tests" >
+    <!--<test name="parameter tests" >
         <parameter name="userName" value="John" ></parameter>
         <parameter name="password" value="John1324"></parameter>
         <classes>
@@ -42,8 +42,14 @@
     </test>
     <test name="parallel tests" >
         <classes>
-<!--        <class name="com.training.testng.SubTestNGClass"></class>-->
+&lt;!&ndash;        <class name="com.training.testng.SubTestNGClass"></class>&ndash;&gt;
         <class name="com.training.testng.SuperTestNgClass"></class>
+        </classes>
+    </test>-->
+    <test name="acceptance" >
+        <classes>
+            <!--        <class name="com.training.testng.SubTestNGClass"></class>-->
+            <class name="com.training.testng.InheritGroups"></class>
         </classes>
     </test>
 </suite>

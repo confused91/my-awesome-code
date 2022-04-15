@@ -15,20 +15,20 @@ public class InheritGroups {
         System.out.println("I am @BeforeTest");
     }
 
-    @BeforeGroups
+    /*@BeforeGroups
     public void beforeGroupsNoGroup() {
         System.out.println("I am @BeforeGroups");
-    }
+    }*/
 
     @BeforeGroups(inheritGroups = true)
     public void beforeGroupsInherit() {
         System.out.println("I am @BeforeGroups(inheritGroups = true)");
     }
 
-    @BeforeGroups(groups = {"acceptance","execute group1"})
+    /*@BeforeGroups(groups = {"acceptance","execute group1"})
     public void beforeGroupsGroups() {
         System.out.println("I am @BeforeGroups(groups = {\"acceptance\"}");
-    }
+    }*/
 
     @BeforeClass(inheritGroups = true)
     public void beforeClass() {

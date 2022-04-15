@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class TestNgExample {
     private String name;
 
-//    @Factory(dataProvider = "dp")
+
     public TestNgExample(String name) {
         this.name = name;
     }
@@ -18,9 +18,5 @@ public class TestNgExample {
         System.out.println("name: " + name);
     }
 
-    @DataProvider(name = "dp")
-    public Object[][] dataProvider() {
-        return new Object[][]{{"custom-a"}, {"custom-b"}};
-    }
 }
 
