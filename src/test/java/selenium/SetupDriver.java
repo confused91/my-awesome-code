@@ -22,7 +22,7 @@ public class SetupDriver {
         driver.manage().window().maximize();
         wait= new WebDriverWait(driver,30);
     }
-    @BeforeClass(groups = "firefox")
+    @BeforeClass(groups = "firefox", enabled = false)
     public void setupFirefox()
     {
         System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/src/main/resources/drivers/geckodriver.exe");

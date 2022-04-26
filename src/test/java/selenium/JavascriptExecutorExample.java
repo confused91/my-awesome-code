@@ -27,7 +27,7 @@ public class JavascriptExecutorExample extends SetupDriver {
     }
 
     @Test
-    public void highlightElement() throws InterruptedException {
+    public void highlightElement()  {
         driver.get("https://www.facebook.com");
         WebElement element = driver.findElement(By.id("pass"));
         String originalStyle= element.getCssValue("border");
@@ -50,4 +50,24 @@ public class JavascriptExecutorExample extends SetupDriver {
         }
         driver.quit();
     }
+    @Test
+    public void refreshBrowser()
+    {
+        driver.get("https://www.facebook.com");
+        JavascriptExecutor jsExec = (JavascriptExecutor) driver;
+        jsExec.executeScript("location.reload();");
+    }
+
+    @Test
+    public void testLogin()
+    {
+        JavascriptExecutor js = (JavascriptExecutor)driver;
+        driver.manage().window().maximize();
+        driver.get("https://www.browserstack.com/users/sign_in");
+        js.executeScript("document.getElementById('user_email_login').value='rbc@xyz.com';");
+        js.executeScript("document.getElementById('user_password').value='password';");
+        js.executeScript("document.getElementById('user_submit').click();");
+        js.executeScript("alert('enter correct login credentials to continue');");
+    }
+    
 }
