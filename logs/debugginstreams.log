@@ -373,3 +373,1136 @@ SPORTS_CAR
 2022-04-07 16:05:00 INFO  Example:25 - I am object: java.lang.Object@6e6cad79
 2022-04-07 16:47:22 INFO  Example:20 - I am the object: java.lang.Object@9eb8eee4
 2022-04-07 16:47:22 INFO  Example:25 - I am object: java.lang.Object@9eb8eee4
+2022-04-11 07:44:02 INFO  OrderOfExecution:13 - Setup something before running suite.
+2022-04-11 07:44:02 INFO  OrderOfExecution:33 - running before test
+2022-04-11 07:44:02 INFO  OrderOfExecution:38 - running after test
+2022-04-11 07:44:02 INFO  OrderOfExecution:58 - running after Suite
+2022-04-11 07:50:04 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 07:50:04 INFO  OrderOfExecution:35 - running before test
+2022-04-11 07:50:04 INFO  OrderOfExecution:40 - running after test
+2022-04-11 07:50:04 INFO  OrderOfExecution:60 - running after Suite
+2022-04-11 07:50:39 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 07:50:39 INFO  OrderOfExecution:35 - running before test
+2022-04-11 07:50:39 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 07:50:39 INFO  OrderOfExecution:30 - running before method
+2022-04-11 07:50:39 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 07:50:39 INFO  OrderOfExecution:45 - running after method
+2022-04-11 07:50:39 INFO  OrderOfExecution:50 - running after class
+2022-04-11 07:50:39 INFO  OrderOfExecution:40 - running after test
+2022-04-11 07:50:39 INFO  OrderOfExecution:60 - running after Suite
+2022-04-11 07:51:54 INFO  OrderOfExecution:15 - Setup something before running suite.
+2022-04-11 07:51:54 INFO  OrderOfExecution:39 - running before test
+2022-04-11 07:51:54 INFO  OrderOfExecution:21 - Setup to be done before running every class
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:45 - running after test
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:27 - Running before groups
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:39 - running before test
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:21 - Setup to be done before running every class
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:33 - running before method
+2022-04-11 07:51:54 INFO  OrderOfExecution:15 - Setup something before running suite.
+2022-04-11 07:51:54 INFO  OrderOfExecution:51 - running after method
+2022-04-11 07:51:54 INFO  OrderOfExecution:56 - running after class
+2022-04-11 07:51:54 INFO  OrderOfExecution:45 - running after test
+2022-04-11 07:51:54 INFO  OrderOfExecution:66 - running after Suite
+2022-04-11 07:56:08 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 07:56:08 INFO  OrderOfExecution:38 - running before test
+2022-04-11 07:56:08 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 07:56:08 INFO  OrderOfExecution:32 - running before method
+2022-04-11 07:56:08 INFO  OrderOfExecution:55 - Testing something else.
+2022-04-11 07:56:08 INFO  OrderOfExecution:66 - running after method
+2022-04-11 07:56:08 INFO  OrderOfExecution:32 - running before method
+2022-04-11 07:56:08 INFO  OrderOfExecution:50 - Testing the order of execution
+2022-04-11 07:56:08 INFO  OrderOfExecution:66 - running after method
+2022-04-11 07:56:08 INFO  OrderOfExecution:32 - running before method
+2022-04-11 07:56:08 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 07:56:08 INFO  OrderOfExecution:66 - running after method
+2022-04-11 07:56:08 INFO  OrderOfExecution:71 - running after class
+2022-04-11 07:56:08 INFO  OrderOfExecution:60 - running after test
+2022-04-11 07:56:08 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 08:03:46 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 08:03:46 INFO  OrderOfExecution:38 - running before test
+2022-04-11 08:03:46 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 08:03:46 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:03:46 INFO  OrderOfExecution:55 - Testing something else.
+2022-04-11 08:03:46 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:03:46 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:03:46 INFO  OrderOfExecution:50 - Testing the order of execution
+2022-04-11 08:03:46 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:03:46 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:03:46 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 08:03:46 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:03:46 INFO  OrderOfExecution:71 - running after class
+2022-04-11 08:03:46 INFO  OrderOfExecution:60 - running after test
+2022-04-11 08:03:46 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 08:05:18 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 08:05:18 INFO  OrderOfExecution:38 - running before test
+2022-04-11 08:05:18 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 08:05:18 INFO  OrderOfExecution:26 - Running before groups to see if there is something to exclude
+2022-04-11 08:05:18 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:05:18 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 08:05:18 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:05:18 INFO  OrderOfExecution:71 - running after class
+2022-04-11 08:05:18 INFO  OrderOfExecution:60 - running after test
+2022-04-11 08:05:18 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 08:05:25 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 08:05:25 INFO  OrderOfExecution:38 - running before test
+2022-04-11 08:05:26 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 08:05:26 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:05:26 INFO  OrderOfExecution:55 - Testing something else.
+2022-04-11 08:05:26 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:05:26 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:05:26 INFO  OrderOfExecution:50 - Testing the order of execution
+2022-04-11 08:05:26 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:05:26 INFO  OrderOfExecution:26 - Running before groups to see if there is something to exclude
+2022-04-11 08:05:26 INFO  OrderOfExecution:32 - running before method
+2022-04-11 08:05:26 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 08:05:26 INFO  OrderOfExecution:66 - running after method
+2022-04-11 08:05:26 INFO  OrderOfExecution:71 - running after class
+2022-04-11 08:05:26 INFO  OrderOfExecution:60 - running after test
+2022-04-11 08:05:26 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 08:35:39 INFO  DependsOnTest:17 - Setting up database connection
+2022-04-11 08:35:39 INFO  DependsOnTest:12 - executing database queries
+2022-04-11 08:38:52 INFO  DependsOnTest:35 - Logging into the application
+2022-04-11 08:38:52 INFO  DependsOnTest:23 - preparing the statement
+2022-04-11 08:38:52 INFO  DependsOnTest:19 - Setting up database connection
+2022-04-11 08:38:52 INFO  DependsOnTest:30 - Testing home page
+2022-04-11 08:38:52 INFO  DependsOnTest:14 - executing database queries
+2022-04-11 08:55:22 INFO  DependsOnTest:35 - Logging into the application
+2022-04-11 08:55:22 INFO  DependsOnTest:19 - Setting up database connection
+2022-04-11 08:55:22 INFO  DependsOnTest:23 - preparing the statement
+2022-04-11 08:55:22 INFO  DependsOnTest:30 - Testing home page
+2022-04-11 08:55:22 INFO  DependsOnTest:14 - executing database queries
+2022-04-11 09:27:20 INFO  ParameterizationTest:14 - The username and password are :John John1324
+2022-04-11 09:31:08 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 09:31:08 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 09:31:08 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 09:31:26 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 09:31:26 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 09:31:26 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 11:54:13 INFO  InvocationCountAndTimeout:12 - Running test once.
+2022-04-11 11:54:13 INFO  InvocationCountAndTimeout:22 - Running test twice.
+2022-04-11 11:54:13 INFO  InvocationCountAndTimeout:22 - Running test twice.
+2022-04-11 11:54:13 INFO  InvocationCountAndTimeout:22 - Running test twice.
+2022-04-11 11:54:13 INFO  InvocationCountAndTimeout:17 - Running test twice.
+2022-04-11 11:54:13 INFO  InvocationCountAndTimeout:17 - Running test twice.
+2022-04-11 11:54:53 INFO  InvocationCountAndTimeout:22 - Running test twice.
+2022-04-11 11:54:53 INFO  InvocationCountAndTimeout:22 - Running test twice.
+2022-04-11 11:54:53 INFO  InvocationCountAndTimeout:22 - Running test twice.
+2022-04-11 11:55:22 INFO  InvocationCountAndTimeout:23 - Running test twice.
+2022-04-11 11:55:23 INFO  InvocationCountAndTimeout:23 - Running test twice.
+2022-04-11 11:55:50 INFO  InvocationCountAndTimeout:23 - Running test thrice in given time.
+2022-04-11 11:55:51 INFO  InvocationCountAndTimeout:23 - Running test thrice in given time.
+2022-04-11 11:56:10 INFO  InvocationCountAndTimeout:22 - Running test thrice in given time.
+2022-04-11 11:56:10 INFO  InvocationCountAndTimeout:22 - Running test thrice in given time.
+2022-04-11 11:56:10 INFO  InvocationCountAndTimeout:22 - Running test thrice in given time.
+2022-04-11 11:56:38 INFO  InvocationCountAndTimeout:12 - Running test once.
+2022-04-11 11:56:38 INFO  InvocationCountAndTimeout:22 - Running test thrice in given time.
+2022-04-11 11:56:38 INFO  InvocationCountAndTimeout:22 - Running test thrice in given time.
+2022-04-11 11:56:38 INFO  InvocationCountAndTimeout:22 - Running test thrice in given time.
+2022-04-11 11:56:38 INFO  InvocationCountAndTimeout:17 - Running test twice.
+2022-04-11 11:56:38 INFO  InvocationCountAndTimeout:17 - Running test twice.
+2022-04-11 11:57:03 INFO  InvocationCountAndTimeout:14 - Running test once.
+2022-04-11 11:57:04 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 11:57:05 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 11:57:06 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 11:57:06 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 11:57:46 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 11:57:47 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 11:57:48 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 11:57:48 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 13:44:32 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 13:44:32 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 13:44:32 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 13:44:32 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:04:20 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:04:20 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:04:20 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:04:20 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:04:51 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:04:51 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:04:51 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:04:51 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:05:17 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:05:17 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:05:17 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:05:17 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:05:34 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:05:34 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:05:34 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:05:34 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:06:45 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:06:45 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:06:45 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:06:45 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:06:45 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:07:11 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:07:11 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:07:11 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:07:11 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:07:11 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:08:24 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:08:24 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:08:24 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:08:24 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:08:24 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:09:24 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:09:24 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:09:24 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:09:24 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:09:24 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:09:38 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:09:38 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:09:38 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:09:38 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:09:38 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:10:03 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:10:03 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:10:03 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:10:03 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:10:03 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:10:27 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:10:27 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:10:27 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:10:27 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:10:27 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:10:54 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:10:54 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:10:54 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:10:54 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:10:54 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:11:17 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:11:17 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:11:17 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:11:17 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:11:17 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:15:41 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:15:41 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:15:41 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:15:41 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:15:41 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:16:11 INFO  ParameterizationTest:26 - User is logged in sucessfully
+2022-04-11 14:16:11 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:16:11 INFO  ParameterizationTest:21 - The username and password are :John/J24242
+2022-04-11 14:16:11 INFO  ParameterizationTest:21 - The username and password are :Rekha/R2242
+2022-04-11 14:16:11 INFO  ParameterizationTest:21 - The username and password are :Marvel/M33535
+2022-04-11 14:19:02 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:19:02 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:19:02 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:19:02 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:19:02 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:20:15 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:20:15 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:20:15 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:20:15 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:20:15 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:21:42 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:21:42 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:21:42 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:21:42 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:21:42 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:22:18 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:22:18 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:22:18 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:22:18 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:22:18 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:23:39 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:23:39 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:23:39 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:23:39 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:23:39 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:29:26 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:29:26 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:29:26 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:29:26 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:29:26 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:29:50 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:29:50 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:29:50 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:29:50 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:29:50 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:31:03 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:31:03 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:31:03 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:31:03 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:31:03 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 14:31:38 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 14:31:38 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 14:31:38 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 14:31:38 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 14:31:38 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 15:23:32 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 15:23:32 INFO  OrderOfExecution:38 - running before test
+2022-04-11 15:23:32 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 15:23:32 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:23:32 INFO  OrderOfExecution:55 - Testing something else.
+2022-04-11 15:23:32 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:23:32 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:23:32 INFO  OrderOfExecution:50 - Testing the order of execution
+2022-04-11 15:23:32 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:23:32 INFO  OrderOfExecution:26 - Running before groups to see if there is something to exclude
+2022-04-11 15:23:32 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:23:32 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 15:23:32 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:23:32 INFO  OrderOfExecution:71 - running after class
+2022-04-11 15:23:32 INFO  OrderOfExecution:60 - running after test
+2022-04-11 15:23:32 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 15:27:55 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 15:27:55 INFO  OrderOfExecution:38 - running before test
+2022-04-11 15:27:55 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 15:27:55 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:27:55 INFO  OrderOfExecution:55 - Testing something else.
+2022-04-11 15:27:55 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:27:55 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:27:55 INFO  OrderOfExecution:50 - Testing the order of execution
+2022-04-11 15:27:55 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:27:55 INFO  OrderOfExecution:26 - Running before groups to see if there is something to exclude
+2022-04-11 15:27:55 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:27:55 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 15:27:55 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:27:55 INFO  OrderOfExecution:76 - running after groups
+2022-04-11 15:27:55 INFO  OrderOfExecution:71 - running after class
+2022-04-11 15:27:55 INFO  OrderOfExecution:60 - running after test
+2022-04-11 15:27:55 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 15:34:13 INFO  OrderOfExecution:14 - Setup something before running suite.
+2022-04-11 15:34:13 INFO  OrderOfExecution:38 - running before test
+2022-04-11 15:34:13 INFO  OrderOfExecution:20 - Setup to be done before running every class
+2022-04-11 15:34:13 INFO  OrderOfExecution:26 - Running before groups to see if there is something to exclude
+2022-04-11 15:34:13 INFO  OrderOfExecution:32 - running before method
+2022-04-11 15:34:13 INFO  OrderOfExecution:45 - Testing the sequence of annotations
+2022-04-11 15:34:13 INFO  OrderOfExecution:66 - running after method
+2022-04-11 15:34:13 INFO  OrderOfExecution:76 - running after groups
+2022-04-11 15:34:13 INFO  OrderOfExecution:71 - running after class
+2022-04-11 15:34:13 INFO  OrderOfExecution:60 - running after test
+2022-04-11 15:34:13 INFO  OrderOfExecution:81 - running after Suite
+2022-04-11 15:42:51 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 15:42:51 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 15:42:51 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 15:42:51 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 15:42:51 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 15:43:15 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 15:46:18 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 15:46:18 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 15:46:18 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 16:00:45 INFO  DependsOnTest:35 - Logging into the application
+2022-04-11 16:00:45 INFO  DependsOnTest:23 - preparing the statement
+2022-04-11 16:00:45 INFO  DependsOnTest:19 - Setting up database connection
+2022-04-11 16:00:45 INFO  DependsOnTest:30 - Testing home page
+2022-04-11 16:00:45 INFO  DependsOnTest:14 - executing database queries
+2022-04-11 16:06:24 INFO  DependsOnTest:19 - Setting up database connection
+2022-04-11 16:06:24 INFO  DependsOnTest:35 - Logging into the application
+2022-04-11 16:06:24 INFO  DependsOnTest:23 - preparing the statement
+2022-04-11 16:06:24 INFO  DependsOnTest:14 - executing database queries
+2022-04-11 16:06:24 INFO  DependsOnTest:30 - Testing home page
+2022-04-11 16:09:02 INFO  DependsOnTest:35 - Logging into the application
+2022-04-11 16:09:02 INFO  DependsOnTest:19 - Setting up database connection
+2022-04-11 16:09:02 INFO  DependsOnTest:23 - preparing the statement
+2022-04-11 16:09:02 INFO  DependsOnTest:30 - Testing home page
+2022-04-11 16:09:02 INFO  DependsOnTest:14 - executing database queries
+2022-04-11 16:31:22 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:31:23 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:31:24 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:31:24 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:32:01 INFO  InvocationCountAndTimeout:14 - Running test once.
+2022-04-11 16:32:02 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:32:03 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:32:04 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:32:04 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:33:42 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:33:42 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:33:55 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:33:55 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:33:55 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:35:02 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:35:02 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:35:02 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:35:02 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:35:02 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:35:02 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:35:50 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:35:51 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:35:52 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:35:52 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:35:52 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:36:34 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:35 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:36 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:36:36 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:36:36 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:36:44 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:37:27 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:26 - 33
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:26 - 32
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:26 - 32
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:26 - 32
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:25 - Running test thrice in given time.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:26 - 33
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:38:23 INFO  InvocationCountAndTimeout:19 - Running test twice.
+2022-04-11 16:59:00 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 16:59:00 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 16:59:00 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 16:59:00 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 16:59:00 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:01:26 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:01:26 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:01:26 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:01:26 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:01:26 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:05:49 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:05:49 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:05:49 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:05:49 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:05:49 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:10:36 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:10:36 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:10:36 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:10:36 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:10:36 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:13:53 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:13:53 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:13:53 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:13:53 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:13:53 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:22:13 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:22:13 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:22:13 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:22:13 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:22:13 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:22:52 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:22:52 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:22:52 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:22:52 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:22:52 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:23:11 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:23:11 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:23:11 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:23:11 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:23:11 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:24:05 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:24:05 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:24:05 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:24:05 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:24:05 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-11 17:28:41 INFO  ParameterizationTest:15 - The username and password are :John John1324
+2022-04-11 17:28:41 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-04-11 17:28:41 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-04-11 17:28:41 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-04-11 17:28:41 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-04-14 11:55:17 INFO  GetRequestTest:24 - the response is :io.restassured.internal.RestAssuredResponseImpl@b4593259
+2022-04-14 11:55:17 INFO  GetRequestTest:24 - the response is :io.restassured.internal.RestAssuredResponseImpl@a206ca94
+2022-04-14 11:55:17 INFO  GetRequestTest:24 - the response is :io.restassured.internal.RestAssuredResponseImpl@3dd3d1b5
+2022-04-14 11:55:37 INFO  GetRequestTest:24 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 11:55:37 INFO  GetRequestTest:24 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 11:55:37 INFO  GetRequestTest:24 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 12:20:12 INFO  GetRequestTest:26 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 12:20:12 INFO  GetRequestTest:26 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:20:12 INFO  GetRequestTest:26 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 12:24:16 INFO  GetRequestTest:49 - the prettyPrint string value is: {
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:25:23 INFO  GetRequestTest:50 - the prettyPrint string value is: {
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:28:58 INFO  GetRequestTest:48 - 1
+2022-04-14 12:28:58 INFO  GetRequestTest:51 - the prettyPrint string value is: {
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:29:30 INFO  GetRequestTest:51 - the prettyPrint string value is: {
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:29:41 INFO  GetRequestTest:51 - the prettyPrint string value is: {
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:32:07 INFO  GetRequestTest:51 - the prettyPrint string value is: {
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 12:34:00 INFO  GetRequestTest:50 - {id=1, code=PEP, name=Pre-Education Program}
+2022-04-14 16:16:46 INFO  GetRequestTest:27 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:16:46 INFO  GetRequestTest:27 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 16:16:46 INFO  GetRequestTest:27 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:55:07 INFO  GetRequestTest:29 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:55:07 INFO  GetRequestTest:29 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 16:55:07 INFO  GetRequestTest:29 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:56:13 INFO  GetRequestTest:30 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:56:13 INFO  GetRequestTest:30 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 16:56:13 INFO  GetRequestTest:30 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:56:44 INFO  GetRequestTest:30 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:56:44 INFO  GetRequestTest:30 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 16:56:44 INFO  GetRequestTest:30 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:57:21 INFO  GetRequestTest:30 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
+2022-04-14 16:57:21 INFO  GetRequestTest:30 - the response is :{
+    "id": 1,
+    "code": "PEP",
+    "name": "Pre-Education Program"
+}
+2022-04-14 16:57:21 INFO  GetRequestTest:30 - the response is :{
+    "content": [
+        {
+            "id": 1,
+            "code": "PEP",
+            "name": "Pre-Education Program"
+        },
+        {
+            "id": 3,
+            "code": "EVENT",
+            "name": "EPAM Events"
+        },
+        {
+            "id": 4,
+            "code": "string",
+            "name": "string"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 10000,
+        "pageNumber": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "size": 10000,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "numberOfElements": 3,
+    "empty": false
+}
