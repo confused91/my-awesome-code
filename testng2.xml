@@ -3,7 +3,7 @@
 <suite name="parallel suite" verbose="1" thread-count="3" parallel="methods">
     <test name="browser tests" >
         <classes>
-            <class name="selenium.BrowserFunctions"></class>
+            <class name="selenium.basics.BrowserFunctions"></class>
         </classes>
     </test>
 </suite>

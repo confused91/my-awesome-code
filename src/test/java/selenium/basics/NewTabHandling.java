@@ -1,30 +1,14 @@
-package selenium;
+package selenium.basics;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
 
 
-public class NewTabHandling {
-    private WebDriver driver;
-    private WebDriverWait wait;
-
-    @BeforeMethod
-    public void setup() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sharada_Doddi\\Documents\\RD_Batch_Training\\Automation testing\\Selenium\\chromedriver_win32\\chromedriver.exe");
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
-        wait = new WebDriverWait(driver, 10);
-    }
+public class NewTabHandling extends SetupDriver{
 
     @Test
     public void openNewTabWithoutWaits() throws AWTException {

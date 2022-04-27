@@ -1,11 +1,10 @@
-package selenium;
+package selenium.basics;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class JavascriptExecutorExample extends SetupDriver {
@@ -27,7 +26,7 @@ public class JavascriptExecutorExample extends SetupDriver {
     }
 
     @Test
-    public void highlightElement()  {
+    public void highlightElement() {
         driver.get("https://www.facebook.com");
         WebElement element = driver.findElement(By.id("pass"));
         String originalStyle= element.getCssValue("border");
@@ -69,5 +68,14 @@ public class JavascriptExecutorExample extends SetupDriver {
         js.executeScript("document.getElementById('user_submit').click();");
         js.executeScript("alert('enter correct login credentials to continue');");
     }
-    
+
+    @Test
+    public void testScrolling()
+    {
+        JavascriptExecutor js = (JavascriptExecutor)driver;
+        driver.manage().window().maximize();
+        driver.get("https://www.browserstack.com");
+        js.executeAsyncScript("window.scrollBy(0,document.body.scrollHeight)");
+//        js.executeScript("window.scrollBy(0,240)");
+    }
 }
