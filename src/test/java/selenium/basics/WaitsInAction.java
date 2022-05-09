@@ -29,7 +29,7 @@ public class WaitsInAction {
         driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        wait = new WebDriverWait(driver, 10);
+        wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         driver.navigate().to("https://www.facebook.com");
         fluentWait = new FluentWait<>(driver)
                 .withTimeout(Duration.ofSeconds(30))
@@ -42,7 +42,7 @@ public class WaitsInAction {
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         WebElement createAccountButton = driver.findElement(By.xpath("//a[@data-testid='open-registration-form-button']"));
         createAccountButton.click();
-        new WebDriverWait(driver, 20).until(ExpectedConditions.visibilityOfElementLocated(By.name("firstname"))); //0ms
+        new WebDriverWait(driver, Duration.ofSeconds(20)).until(ExpectedConditions.visibilityOfElementLocated(By.name("firstname"))); //0ms
         System.out.println(driver.findElement(By.name("firstname")).isDisplayed());
         driver.findElement(By.name("firstname")).sendKeys("rdbatch2");
     }

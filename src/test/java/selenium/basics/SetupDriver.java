@@ -15,6 +15,7 @@ import org.testng.annotations.*;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.Duration;
 import java.util.Collections;
 import java.util.concurrent.TimeUnit;
 
@@ -30,7 +31,7 @@ public class SetupDriver {
         System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/src/main/resources/drivers/chromedriver.exe");
         driver= new ChromeDriver(chromeOptions);
         driver.manage().window().maximize();
-        wait= new WebDriverWait(driver,30);
+        wait= new WebDriverWait(driver, Duration.ofSeconds(30));
     }
     @BeforeClass(groups = "firefox",enabled = false)
     public void setupFirefox()
@@ -38,7 +39,7 @@ public class SetupDriver {
         System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/src/main/resources/drivers/geckodriver.exe");
         driver= new FirefoxDriver();
         driver.manage().window().maximize();
-        wait= new WebDriverWait(driver,30);
+        wait= new WebDriverWait(driver,Duration.ofSeconds(10));
     }
     @AfterClass
     public void takeScreenshot() throws IOException {

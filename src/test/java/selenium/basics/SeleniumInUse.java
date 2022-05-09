@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
+import java.time.Duration;
 import java.util.List;
 import java.util.Objects;
 import java.util.Set;
@@ -35,7 +36,7 @@ public class SeleniumInUse {
          driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-         wait= new WebDriverWait(driver,30);
+         wait= new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
 

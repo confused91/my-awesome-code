@@ -1,7 +1,9 @@
 package selenium.page_object_model;
 
-import com.gargoylesoftware.htmlunit.Page;
-import org.openqa.selenium.support.PageFactory;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.core.LoggerContext;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
@@ -14,15 +16,17 @@ public class FacebookLoginTest extends TestBase {
 
     FacebookLoginPage facebookLoginPage;
     FacebookHomePage homePage;
+    Logger logger = LogManager.getLogger(FacebookLoginTest.class);
 
     @Test(description = "login using the email and password")
     @Parameters({"email", "password"})
     public void testLogin(@Optional("sharada.doddi09@gmail.com") String email, @Optional("Facebook123$") String password) {
         facebookLoginPage = new FacebookLoginPage(driver);
+        logger.info("Facebook page has been opened");
         facebookLoginPage.typeEmail(email);
+        logger.info("Typing email "+email);
         facebookLoginPage.typePassword(password);
         facebookLoginPage.clickLogin();
-
     }
 
     @Test(description = "verify home page is opened and check profile name",priority = 1)

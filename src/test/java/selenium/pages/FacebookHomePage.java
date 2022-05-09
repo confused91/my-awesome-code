@@ -7,6 +7,8 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
+
 
 public class FacebookHomePage {
     WebDriver driver;
@@ -15,7 +17,7 @@ public class FacebookHomePage {
     public FacebookHomePage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
-        wait = new WebDriverWait(driver, 20);
+        wait = new WebDriverWait(driver, Duration.ofSeconds(20));
         if (!driver.getPageSource().contains("Welcome")) {
             throw new IllegalStateException("we've not logged in to home page!");
         }
