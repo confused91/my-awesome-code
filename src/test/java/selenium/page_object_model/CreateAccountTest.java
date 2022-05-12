@@ -1,13 +1,15 @@
 package selenium.page_object_model;
 
+import com.epam.reportportal.testng.ReportPortalTestNGListener;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import selenium.pages.CreateAccountPage;
 import selenium.pages.FacebookLoginPage;
 import selenium.pages.VerificationPage;
 
-import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
+@Listeners({ReportPortalTestNGListener.class})
 public class CreateAccountTest  extends TestBase{
 
     FacebookLoginPage facebookLoginPage;

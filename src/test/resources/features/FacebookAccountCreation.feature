@@ -2,9 +2,8 @@ Feature: As a user, I want to create a facebook account
   So that I can login to my account
 
   Background: Open facebook login page
-    Given user navigates to "https://www.facebook.com"
+    Given users opens to "https://www.facebook.com"
 
-    @loginWithMultipleIds
     Scenario: Opening sign up form
       Given facebook page is open
       When user clicks on create new account button on facebook login page

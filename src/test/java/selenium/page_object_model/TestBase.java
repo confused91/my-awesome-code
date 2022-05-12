@@ -22,7 +22,7 @@ public class TestBase {
 
     @BeforeClass
     @Parameters("browser")
-    public void setup(String browser) throws MalformedURLException {
+    public void setup(@Optional("chrome") String browser) throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         switch (browser) {
             case "chrome":

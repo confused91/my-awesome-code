@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Extra logging related to initialization of Log4j.
  Set to debug or trace if log4j initialization is failing. -->
-<Configuration status="info">
+<Configuration status="TRACE" packages="com.epam.ta.reportportal.log4j.appender">
     <Appenders>
-        <!-- Console appender configuration -->
-        <Console name="console" target="SYSTEM_OUT">
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
             <PatternLayout
-                    pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n" />
+                    pattern="%d [%t] %-5level %logger{36} - %msg%n%throwable"/>
         </Console>
-        <File name="LogToFile" fileName="logs/debugginstreams.log">
+        <ReportPortalLog4j2Appender name="ReportPortalAppender">
             <PatternLayout
-                    pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n" />
-        </File>
+                    pattern="%d [%t] %-5level %logger{36} - %msg%n%throwable"/>
+        </ReportPortalLog4j2Appender>
     </Appenders>
     <Loggers>
-        <!-- <logger name="com.debug" level="info">
-             <AppenderRef ref="console" />
-             <AppenderRef ref="LogToFile" />
-         </logger>-->
-        <!-- Root logger referring to console appender -->
-        <Root level="info" additivity="false">
-            <AppenderRef ref="console" />
-            <AppenderRef ref="LogToFile" />
+        <Root level="ALL">
+            <AppenderRef ref="ConsoleAppender"/>
+            <AppenderRef ref="ReportPortalAppender"/>
         </Root>
     </Loggers>
 </Configuration>

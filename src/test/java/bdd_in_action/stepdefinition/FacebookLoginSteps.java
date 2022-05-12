@@ -1,15 +1,18 @@
 package bdd_in_action.stepdefinition;
 
 import bdd_in_action.base.BaseTest;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import selenium.pages.FacebookHomePage;
 import selenium.pages.FacebookLoginPage;
 
 public class FacebookLoginSteps extends BaseTest {
 
     FacebookLoginPage facebookLoginPage;
-    @Given("I/user navigate(s) to {string}")
+    FacebookHomePage facebookHomePage;
+    @Given("I/user/users navigate(s)/opens to {string}")
     public void iNavigateTo(String url) {
        driver.navigate().to(url);
     }
@@ -29,4 +32,11 @@ public class FacebookLoginSteps extends BaseTest {
     public void iWantToSeeMyProfilePage() {
         facebookLoginPage.clickLogin();
     }
+
+    @And("I sign out of my profile page")
+    public void iSignOutOfMyProfilePage() {
+        facebookHomePage= new FacebookHomePage(driver);
+        facebookHomePage.logOutOfProfile();
+    }
+
 }

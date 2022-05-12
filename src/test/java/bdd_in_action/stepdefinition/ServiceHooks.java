@@ -1,38 +1,41 @@
 package bdd_in_action.stepdefinition;
 
 import bdd_in_action.base.BaseTest;
+import com.epam.reportportal.message.ReportPortalMessage;
+import com.epam.reportportal.service.ReportPortal;
 import com.fasterxml.jackson.databind.ser.Serializers;
 import io.cucumber.core.gherkin.Step;
 import io.cucumber.java.*;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.core.Logger;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Calendar;
 
-import static bdd_in_action.base.BaseTest.driver;
 
 public class ServiceHooks {
-    BaseTest baseTest;
-    Logger logger;
+    static BaseTest baseTest;
+    Logger logger= LogManager.getLogger(ServiceHooks.class);
 
-    @Before
-    public void initializeBrowser() {
+    @BeforeAll
+    public static void initializeBrowser() {
         baseTest = new BaseTest();
         baseTest.openBrowser("chrome");
     }
 
     @AfterStep
-    public void captureScreenshot() throws IOException {
-        File screenshot= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFileToDirectory(screenshot,new File(System.getProperty("user.dir")+"src/main/resources/screenshots"));
+    public void captureScreenshot(Scenario scenario) throws IOException {
+        File screenshot = ((TakesScreenshot) baseTest.driver).getScreenshotAs(OutputType.FILE);
+        FileUtils.copyFileToDirectory(screenshot, new File(System.getProperty("user.dir") + "src/main/resources/screenshots"));
+        ReportPortal.emitLog("this a screenshot for scenario ---> " + scenario.getName(), "INFO", Calendar.getInstance().getTime(), screenshot);
     }
 
-    @After
-    public void tearDown() {
-        driver.quit();
+    @AfterAll
+    public static void tearDown() {
+        baseTest.driver.quit();
     }
 }
