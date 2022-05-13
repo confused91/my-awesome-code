@@ -1,14 +1,12 @@
 package com.rd.training.java8.multicore;
 
-//import org.jcp.xml.dsig.internal.dom.Utils;
-
-import com.sun.org.apache.xml.internal.serializer.utils.Utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.concurrent.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class DataProcessor {
     public static void main(String[] args) throws InterruptedException {
@@ -18,7 +16,7 @@ public class DataProcessor {
         int numOfThreads = 5;
         List<Integer> squaredIntegers = Collections.synchronizedList(new ArrayList<>());
         List<Integer> sites = integers;
-        /*CountDownLatch countDownLatch = new CountDownLatch(sites.size());*/
+
         ExecutorService es = Executors.newFixedThreadPool(numOfThreads);
         for (Integer site : sites) {
             es.submit(new Runnable() {

@@ -1506,3 +1506,378 @@ SPORTS_CAR
     "numberOfElements": 3,
     "empty": false
 }
+2022-05-10 16:22:06 INFO  DependsOnTest:35 - Logging into the application
+2022-05-10 16:22:06 INFO  ParameterizationTest:28 - User is logged in sucessfully
+2022-05-10 16:22:06 INFO  DependsOnTest:19 - Setting up database connection
+2022-05-10 16:22:06 INFO  DependsOnTest:23 - preparing the statement
+2022-05-10 16:22:06 INFO  DependsOnTest:14 - executing database queries
+2022-05-10 16:22:06 INFO  DependsOnTest:30 - Testing home page
+2022-05-10 16:22:06 INFO  ParameterizationTest:22 - The username and password are :John/J24242
+2022-05-10 16:22:06 INFO  ParameterizationTest:22 - The username and password are :Rekha/R2242
+2022-05-10 16:22:06 INFO  ParameterizationTest:22 - The username and password are :Marvel/M33535
+2022-05-10 16:22:17 INFO  FacebookLoginTest:25 - Facebook page has been opened
+2022-05-10 16:22:18 INFO  FacebookLoginTest:27 - Typing email sharada.doddi09@gmail.com
+2022-05-11 11:14:19 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@a20f93b
+2022-05-11 11:14:22 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@374a5e6a
+2022-05-11 11:14:24 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c6cc9139
+2022-05-11 11:16:15 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@ddb30261
+2022-05-11 11:16:15 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8be75ea0
+2022-05-11 11:16:17 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@dc4e3649
+2022-05-11 11:16:17 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@3b1bba21
+2022-05-11 11:16:22 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@f7cddf1a
+2022-05-11 11:16:23 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@f3b3dfe7
+2022-05-11 11:16:24 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@9e5b64c1
+2022-05-11 11:16:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@2c72c419
+2022-05-11 11:16:31 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@434c874f
+2022-05-11 11:16:35 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@9a0c8b90
+2022-05-11 11:16:35 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@6d743b6c
+2022-05-11 11:16:36 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8eac394f
+2022-05-11 11:18:29 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c18358a3
+2022-05-11 11:18:33 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@bb14f23f
+2022-05-11 11:28:23 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@a89a8ae
+2022-05-11 11:28:23 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@6f98b27
+2022-05-11 11:28:24 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@4696ade7
+2022-05-11 11:28:24 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5a732ac2
+2022-05-11 11:28:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@905e85e8
+2022-05-11 11:28:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@79999e44
+2022-05-11 11:28:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@d3855d3b
+2022-05-11 11:28:32 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@3cc08f40
+2022-05-11 11:28:36 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@98b497c6
+2022-05-11 11:28:39 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@d5c8dc48
+2022-05-11 11:28:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@347b8ac2
+2022-05-11 11:28:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@cefd2be8
+2022-05-11 11:29:01 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@365c0c5c
+2022-05-11 11:30:34 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@1b81c065
+2022-05-11 11:30:34 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:34 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@d46981ee
+2022-05-11 11:30:34 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:35 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@a4fd7f6c
+2022-05-11 11:30:35 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:35 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@124440fe
+2022-05-11 11:30:35 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@9633fb01
+2022-05-11 11:30:40 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@6a4b9b00
+2022-05-11 11:30:40 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8377ae72
+2022-05-11 11:30:40 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:45 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c36e3068
+2022-05-11 11:30:45 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:48 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@71745209
+2022-05-11 11:30:48 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:52 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@387008e6
+2022-05-11 11:30:52 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:52 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@331e5706
+2022-05-11 11:30:52 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:30:52 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b727c7a3
+2022-05-11 11:30:52 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:31:12 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@e8303c24
+2022-05-11 11:31:12 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:04 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@69e350de
+2022-05-11 11:51:04 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:05 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@fa60e0c8
+2022-05-11 11:51:05 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:05 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@171521b6
+2022-05-11 11:51:05 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:10 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@40a26114
+2022-05-11 11:51:10 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:14 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@eba94d41
+2022-05-11 11:51:14 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:14 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8f0a051
+2022-05-11 11:51:14 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:14 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c2fa49aa
+2022-05-11 11:51:14 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:51:18 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@19c73f28
+2022-05-11 11:51:18 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@cd798dbc
+2022-05-11 11:52:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@f4e59f6d
+2022-05-11 11:52:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:17 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8fc003c4
+2022-05-11 11:52:17 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:21 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@93965708
+2022-05-11 11:52:21 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:25 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@14b697b3
+2022-05-11 11:52:25 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:26 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@fa21603d
+2022-05-11 11:52:26 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:26 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@4531f9a7
+2022-05-11 11:52:26 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:52:29 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@6fb72147
+2022-05-11 11:52:29 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:53:50 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@cde25476
+2022-05-11 11:53:50 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:53:50 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b2bca187
+2022-05-11 11:53:50 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:53:51 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@9880e021
+2022-05-11 11:53:51 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:54:11 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@72db6ef9
+2022-05-11 11:54:11 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:54:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b450ca3d
+2022-05-11 11:54:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:54:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@496c2223
+2022-05-11 11:54:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:54:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@91743c19
+2022-05-11 11:54:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:54:37 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@cee48d1f
+2022-05-11 11:54:37 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:26 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@acb98bd7
+2022-05-11 11:55:26 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:26 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@609754aa
+2022-05-11 11:55:26 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:27 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@3a6f0b9c
+2022-05-11 11:55:27 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8d5393a6
+2022-05-11 11:55:28 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:32 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b627e2b
+2022-05-11 11:55:32 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:32 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@310a868f
+2022-05-11 11:55:32 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:33 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b304b7b7
+2022-05-11 11:55:33 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:37 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@88e184c4
+2022-05-11 11:55:37 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:41 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@e8f9a2a5
+2022-05-11 11:55:41 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:41 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@2832d277
+2022-05-11 11:55:41 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:55:41 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@34995eaf
+2022-05-11 11:55:41 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:56:02 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@daf92684
+2022-05-11 11:56:02 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:43 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@20e8284e
+2022-05-11 11:58:43 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:43 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@79068a2a
+2022-05-11 11:58:43 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:44 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c51fefe
+2022-05-11 11:58:44 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:44 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@aa56f6e2
+2022-05-11 11:58:44 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:49 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@845fe891
+2022-05-11 11:58:49 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:49 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@3f89ed5d
+2022-05-11 11:58:49 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:50 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@856dd536
+2022-05-11 11:58:50 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:54 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@1166de22
+2022-05-11 11:58:54 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:58 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@29b19611
+2022-05-11 11:58:58 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:58 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@82b6d9d5
+2022-05-11 11:58:58 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:58:59 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@a3d8a049
+2022-05-11 11:58:59 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 11:59:19 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@2f88ea66
+2022-05-11 11:59:19 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b10789a9
+2022-05-11 12:46:28 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:29 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@9a9979ac
+2022-05-11 12:46:29 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:30 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@53e1feca
+2022-05-11 12:46:30 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:30 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@52fd926d
+2022-05-11 12:46:30 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:35 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@6c07d56c
+2022-05-11 12:46:35 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:36 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5aa65379
+2022-05-11 12:46:36 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:36 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@d932b2f9
+2022-05-11 12:46:36 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:41 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@2bf59fee
+2022-05-11 12:46:41 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:46 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@72349e98
+2022-05-11 12:46:46 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:47 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@d0b339b0
+2022-05-11 12:46:47 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:46:47 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@bf0a770c
+2022-05-11 12:46:47 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:47:08 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@cffd5c56
+2022-05-11 12:47:08 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:39 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@afb6acd5
+2022-05-11 12:58:39 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@2e98f3d8
+2022-05-11 12:58:40 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:41 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@4bad9ba
+2022-05-11 12:58:41 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:42 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c6b3626c
+2022-05-11 12:58:42 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:47 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5ba3663f
+2022-05-11 12:58:47 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:47 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c9192a04
+2022-05-11 12:58:47 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:48 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@42d5c5a0
+2022-05-11 12:58:48 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:52 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@a2abfe0f
+2022-05-11 12:58:52 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:57 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@aa14b938
+2022-05-11 12:58:57 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:58 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@3c4475bc
+2022-05-11 12:58:58 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:58:58 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8a4d622b
+2022-05-11 12:58:58 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 12:59:19 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@2481219
+2022-05-11 12:59:19 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:19 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b4b30dbb
+2022-05-11 13:06:19 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:20 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5c480f09
+2022-05-11 13:06:20 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:21 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@71227815
+2022-05-11 13:06:21 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:22 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@52320b73
+2022-05-11 13:06:22 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:27 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@54f1d00a
+2022-05-11 13:06:27 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:27 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@895d7f38
+2022-05-11 13:06:27 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:28 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@9b762927
+2022-05-11 13:06:28 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:32 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@79824d43
+2022-05-11 13:06:32 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:37 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@473de2ca
+2022-05-11 13:06:37 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:37 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@bc08476b
+2022-05-11 13:06:37 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:38 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@dfbcbf96
+2022-05-11 13:06:38 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 13:06:59 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@df102324
+2022-05-11 13:06:59 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:11 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@7ae2065b
+2022-05-11 14:31:11 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:11 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@429e4f6c
+2022-05-11 14:31:11 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:12 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@daa26dee
+2022-05-11 14:31:12 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:12 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@abdb8113
+2022-05-11 14:31:12 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@da2eb800
+2022-05-11 14:31:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@f327e9f8
+2022-05-11 14:31:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:16 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5353e6c2
+2022-05-11 14:31:16 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:19 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 14:31:20 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@6f96d60a
+2022-05-11 14:31:20 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:20 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 14:31:20 INFO  FacebookHomePage:51 - clicking on the profile image
+2022-05-11 14:31:20 INFO  FacebookHomePage:63 - Logging out of profile...
+2022-05-11 14:31:22 INFO  FacebookHomePage:57 - the click performed on logout button
+2022-05-11 14:31:22 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5b8cb433
+2022-05-11 14:31:22 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:26 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@4c42cde5
+2022-05-11 14:31:26 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:26 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@813a949d
+2022-05-11 14:31:26 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:27 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@1dcaba01
+2022-05-11 14:31:27 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:31:47 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@925fd4b2
+2022-05-11 14:31:47 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:39 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@5f5f76e9
+2022-05-11 14:40:39 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:39 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@bbf541cb
+2022-05-11 14:40:39 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@35db6e97
+2022-05-11 14:40:40 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:40 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8847fa03
+2022-05-11 14:40:40 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:44 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@7427c43e
+2022-05-11 14:40:44 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:44 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@42952a24
+2022-05-11 14:40:44 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:44 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@8833cd5a
+2022-05-11 14:40:44 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:48 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 14:40:48 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@477ddc1f
+2022-05-11 14:40:48 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:48 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 14:40:49 INFO  FacebookHomePage:51 - clicking on the profile image
+2022-05-11 14:40:49 INFO  FacebookHomePage:63 - Logging out of profile...
+2022-05-11 14:40:51 INFO  FacebookHomePage:57 - the click performed on logout button
+2022-05-11 14:40:51 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@7cee968c
+2022-05-11 14:40:51 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:54 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@b000b483
+2022-05-11 14:40:54 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:55 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@31ee2823
+2022-05-11 14:40:55 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:40:55 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@aeedeebb
+2022-05-11 14:40:55 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:41:15 INFO  ServiceHooks:35 - com.epam.reportportal.message.ReportPortalMessage@c4675308
+2022-05-11 14:41:15 INFO  ServiceHooks:36 - this is a screenshot method
+2022-05-11 14:51:42 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@807c32c7
+2022-05-11 14:51:42 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:42 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 14:51:42 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@6704324
+2022-05-11 14:51:42 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:43 INFO  FacebookLoginPage:35 - typing email sharada.doddi09@gmail.com
+2022-05-11 14:51:43 INFO  FacebookLoginPage:41 - typing password Facebook123$
+2022-05-11 14:51:43 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@286590f4
+2022-05-11 14:51:43 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:43 INFO  FacebookLoginPage:47 - navigating to the home page
+2022-05-11 14:51:47 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 14:51:48 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@92968b1c
+2022-05-11 14:51:48 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:48 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 14:51:48 INFO  FacebookHomePage:51 - clicking on the profile image
+2022-05-11 14:51:48 INFO  FacebookHomePage:63 - Logging out of profile...
+2022-05-11 14:51:50 INFO  FacebookHomePage:57 - the click performed on logout button
+2022-05-11 14:51:50 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 14:51:50 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@2f24203f
+2022-05-11 14:51:50 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:51 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@43a703d4
+2022-05-11 14:51:51 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:51 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 14:51:51 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@3213a87c
+2022-05-11 14:51:51 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:51 INFO  FacebookLoginPage:35 - typing email nidhi.r@gmail.com
+2022-05-11 14:51:51 INFO  FacebookLoginPage:41 - typing password nidhi.r@gmail.com
+2022-05-11 14:51:52 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@a671438f
+2022-05-11 14:51:52 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 14:51:52 INFO  FacebookLoginPage:47 - navigating to the home page
+2022-05-11 14:52:12 INFO  ServiceHooks:37 - com.epam.reportportal.message.ReportPortalMessage@38f04c64
+2022-05-11 14:52:12 INFO  ServiceHooks:38 - this is a screenshot method
+2022-05-11 15:02:29 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:29 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 15:02:29 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:29 INFO  FacebookLoginPage:35 - typing email sharada.doddi09@gmail.com
+2022-05-11 15:02:29 INFO  FacebookLoginPage:41 - typing password Facebook123$
+2022-05-11 15:02:29 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:29 INFO  FacebookLoginPage:47 - navigating to the home page
+2022-05-11 15:02:33 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 15:02:33 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:33 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 15:02:33 INFO  FacebookHomePage:51 - clicking on the profile image
+2022-05-11 15:02:33 INFO  FacebookHomePage:63 - Logging out of profile...
+2022-05-11 15:02:36 INFO  FacebookHomePage:57 - the click performed on logout button
+2022-05-11 15:02:36 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 15:02:36 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:37 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:37 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 15:02:37 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:37 INFO  FacebookLoginPage:35 - typing email nidhi.r@gmail.com
+2022-05-11 15:02:37 INFO  FacebookLoginPage:41 - typing password nidhi.r@gmail.com
+2022-05-11 15:02:37 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:02:38 INFO  FacebookLoginPage:47 - navigating to the home page
+2022-05-11 15:02:58 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:07 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:07 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 15:05:08 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:08 INFO  FacebookLoginPage:35 - typing email sharada.doddi09@gmail.com
+2022-05-11 15:05:08 INFO  FacebookLoginPage:41 - typing password Facebook123$
+2022-05-11 15:05:08 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:08 INFO  FacebookLoginPage:47 - navigating to the home page
+2022-05-11 15:05:11 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 15:05:11 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:11 INFO  FacebookHomePage:40 - the profile image is displayed
+2022-05-11 15:05:12 INFO  FacebookHomePage:51 - clicking on the profile image
+2022-05-11 15:05:12 INFO  FacebookHomePage:63 - Logging out of profile...
+2022-05-11 15:05:14 INFO  FacebookHomePage:57 - the click performed on logout button
+2022-05-11 15:05:14 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 15:05:14 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:15 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:15 INFO  FacebookLoginPage:18 - navigated to the Login page
+2022-05-11 15:05:15 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:15 INFO  FacebookLoginPage:35 - typing email nidhi.r@gmail.com
+2022-05-11 15:05:15 INFO  FacebookLoginPage:41 - typing password nidhi.r@gmail.com
+2022-05-11 15:05:16 INFO  ServiceHooks:35 - this is a screenshot method
+2022-05-11 15:05:16 INFO  FacebookLoginPage:47 - navigating to the home page
+2022-05-11 15:05:36 INFO  ServiceHooks:35 - this is a screenshot method
