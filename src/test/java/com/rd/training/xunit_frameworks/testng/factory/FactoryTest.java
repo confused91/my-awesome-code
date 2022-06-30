@@ -9,7 +9,8 @@ public class FactoryTest {
         return new Object[]{
                 new TestNgExample("Factory"),
                 new TestNgExample("Method"),
-                new TestNgExample("example")
+                new TestNgExample("example"),
+                new TestOne()
         };
     }
 }

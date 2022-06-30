@@ -23,7 +23,6 @@ public class TestRunner {
         suites.add(suite);
         tng.setXmlSuites(suites);
         tng.run();
-
     }
 }
 
